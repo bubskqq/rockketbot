@@ -1,2 +1,0 @@
-# rockketbot
-rockketbot deply
